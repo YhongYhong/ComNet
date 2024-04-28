@@ -1,0 +1,9 @@
+นายภัทรชัย วรรณสันทัด 65010815
+
+โดยตัวผู้เรียนไม่ได้ใช้ POST(active mode datatransfer) แต่ใช้ PASV(Passive mode datatransfer)แทน เพราะผม error "No connection could be made because the target machine actively refused it"
+
+- ไม่ได้ใข้ POST
+- ไม่มี Ambiguos invalid
+- filesize ขนาดเล็กกว่าใน cmd นิดหน่อย
+
+- แก้ response ของ PASV ให้เหมือน POST
